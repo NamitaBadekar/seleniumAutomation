@@ -1,0 +1,8 @@
+<suite name="Test Automation">
+	<test name ="Test Annotations">
+		<classes>
+			<class name="com.selenium.webdriver.testng.jenkins.TestSeleniumTestNgJenkins">
+			</class>
+		</classes>
+	</test>
+</suite>
